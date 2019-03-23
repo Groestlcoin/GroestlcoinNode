@@ -4,4 +4,6 @@
   sudo apt-get install bitcoin-qt bitcoind
   bitcoind -daemon
   bitcoin-cli -getinfo
+  bitcoin-cli -getinfo
+  
   
